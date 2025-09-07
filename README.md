@@ -1,3 +1,5 @@
+# NumberClassification in Python (/Cuda) - from scratch
+
 This Repository contains different from-scratch implementations (no Pytorch/Tensorflow) for Number-Classification Neural Networks based on the MNIST Dataset:
 - **MLP/NumberClassifier2L.py**: Working Multi-Layer-Perceptron - CPU Processing (NumPy), Full-Batch Gradient Descent
   
