@@ -13,4 +13,4 @@ This Repository contains different from-scratch implementations (no Pytorch/Tens
 
 - **ModelTestingNewData.py**: CLI-Utility for testing trained models on existing and new data
 
-No further work is planned in this Repository.
+**No further work is planned in this Repository.**
